@@ -1,0 +1,20 @@
+package logica.exercicios.aula04;
+
+import java.util.Scanner;
+
+public class Exercicio5 {
+
+	public static void main(String[] args) {
+
+		Scanner entrada = new Scanner(System.in);
+		System.out.println("Digite seu salario: ");
+		
+		double salario = entrada.nextDouble();
+		
+		System.out.println("Seu salario: " + salario);
+		
+		entrada.close();
+		
+	}
+
+}
