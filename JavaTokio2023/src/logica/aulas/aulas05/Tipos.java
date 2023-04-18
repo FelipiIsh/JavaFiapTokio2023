@@ -29,7 +29,7 @@ public class Tipos {
 				System.out.println(numeroIn);
 				
 				entrada.close();
-
+//
 	}
 
 }
