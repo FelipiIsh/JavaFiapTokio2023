@@ -32,6 +32,7 @@ public class Manupilacao {
 		System.out.println(precoFloat);
 		
 		entrada.close();
+		//
 		
 	}
 

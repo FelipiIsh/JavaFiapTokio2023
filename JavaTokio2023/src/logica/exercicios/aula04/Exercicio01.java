@@ -6,6 +6,7 @@ public class Exercicio01 {
 
 		int numero = 18;
 		System.out.println(numero);
+		//
 	}
 
 }

@@ -12,6 +12,7 @@ public class Exercicio02 {
 		System.out.println("O seu nome é: " + nome);
 		
 		entrada.close();
+		//
 		
 	}
 

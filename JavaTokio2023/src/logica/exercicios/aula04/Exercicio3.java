@@ -11,6 +11,8 @@ public class Exercicio3 {
 		System.out.println(nome);
 
 		entrada.close();
+		
+		//
 	}
 
 }
