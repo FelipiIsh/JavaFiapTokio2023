@@ -15,6 +15,7 @@ public class OperadoresLogicos {
 
 		boolean negacao = !true;
 		System.out.println(negacao);
+		System.out.println(" ");
 		
 		// OPERADORES DE STRINGS
 		
