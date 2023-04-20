@@ -26,6 +26,7 @@ public class OperadoresLogicos {
 		System.out.println(nome1 == nome3);
 		System.out.println(nome1.equals(nome3));
 				
+		
 
 	}
 

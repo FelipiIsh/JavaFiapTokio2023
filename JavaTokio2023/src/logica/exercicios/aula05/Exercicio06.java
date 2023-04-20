@@ -10,7 +10,7 @@ public class Exercicio06 {
 		
 		System.out.println("Digite o nome da peça1: ");
 		
-		
+		entrada.close();
 		
 	}
 
