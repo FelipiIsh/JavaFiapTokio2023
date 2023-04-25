@@ -33,7 +33,7 @@ public class WhileLaco {
 		while (i < 10) {
 			i++;
 
-			if (i == 3) {
+			if (i == 3 || i == 5) {
 				continue;
 			}
 			
