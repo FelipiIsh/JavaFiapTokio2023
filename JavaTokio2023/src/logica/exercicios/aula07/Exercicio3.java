@@ -12,10 +12,14 @@ public class Exercicio3 {
 		int n = sc.nextInt();
 		int i = 0;
 		
-		for (n=0; n < n*26; i++ );
-		System.out.println(n);
+		while (i <= n*25) {
+			System.out.println(n*(0+i));
+			i++;
+		}
 		
 		
+		
+		sc.close();
 	}
 
 }
