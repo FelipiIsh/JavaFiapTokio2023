@@ -33,7 +33,7 @@ public class Vetores {
 			System.out.printf("Pos: %d -- Valor: %d \n", i, numeros[i]);
 		}
 		
-		
+		//
 		
 		
 	}

@@ -12,7 +12,7 @@ public class StringClasse {
 			System.out.println(str.charAt(i));
 		}
 		
-		
+		//
 		
 	}
 

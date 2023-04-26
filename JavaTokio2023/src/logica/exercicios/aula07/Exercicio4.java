@@ -41,5 +41,5 @@ public class Exercicio4 {
 		sc.close();
 		
 	}
-
+//
 }

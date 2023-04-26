@@ -17,7 +17,7 @@ public class Exercicio3 {
 			i++;
 		}
 		
-		
+		//
 		
 		sc.close();
 	}
