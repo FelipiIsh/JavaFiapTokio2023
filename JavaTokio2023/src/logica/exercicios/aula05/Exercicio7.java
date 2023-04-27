@@ -10,10 +10,10 @@ public class Exercicio7 {
 		System.out.println("Digite o preco do produto 1: ");
 		int preco1 = entrada.nextInt();
 		
-		System.out.println("Digite o preco do produto 2: ");
-		int preco2 = entrada.nextInt();
+		System.out.println("Digite o valor pago: ");
+		int pago = entrada.nextInt();
 		
-		System.out.println(preco1 - preco2);
+		System.out.println(pago - preco1);
 		
 		
 		

@@ -14,8 +14,9 @@ public class Exercicio4 {
 		int num2 = entrada.nextInt();
 		
 		int num3 = (num1%num2);
+		int num4 = (num2%num1);
 						
-		if (num3 == 0) {
+		if (num3 == 0 || num4 == 0) {
 			System.out.println("Sao multiplos");
 		} 
 		else {

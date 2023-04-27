@@ -1,3 +1,4 @@
+
 package logica.exercicios.aula05;
 
 import java.util.Scanner;
@@ -12,7 +13,12 @@ public class Exercicio03 {
 		
 		
 		
-		System.out.println("Digite seu gênero: m, n, o, n");
+		System.out.println("Digite seu gênero: m, f, o, n");
+		System.out.println("[ M ] para masculino");
+		System.out.println("[ F ] para feminino");
+		System.out.println("[ O ] outro");
+		System.out.println("[ N ] não responder");
+		
 		char genero = entrada.nextLine().charAt(0);
 		
 		System.out.println("Olá," + nome + " Você escolheu a seguinte opção de gênero: " + genero );

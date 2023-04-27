@@ -20,7 +20,8 @@ public class Exercicio3 {
 		System.out.println("Digite a nota 4: ");
 		int num4 = entrada.nextInt();
 		
-		double mediaFinal = (num1 + num2 + num3 + num4);
+		double mediaFinal = (num1 + num2 + num3 + num4) / 4;
+		System.out.println("Media: " + mediaFinal);
 		
 		if (mediaFinal >= 7) {
 			System.out.println("aprovado");
