@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Metodos {
 	
-	
+	//
 	//METODOS SEM RETORNO/PARAMETROS
 
 	static void saudacao( ) {

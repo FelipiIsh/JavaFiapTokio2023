@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MetodosComArg {
 	
 	//METODOS SEM RETORNO COM ARGUMETNOS/PARAMETROS
-	
+	//
 	static void saudacaoComArgs(String nome, int idade) {
 		
 		if (idade >= 18) {

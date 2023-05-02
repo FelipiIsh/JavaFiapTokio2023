@@ -11,7 +11,7 @@ public class MetodosComRetSemArg {
 		String retorno = saudacao();
 
 		System.out.println(retorno);
-		
+		//
 	}
 
 }
