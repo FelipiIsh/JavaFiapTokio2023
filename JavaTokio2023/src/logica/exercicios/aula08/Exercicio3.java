@@ -11,10 +11,13 @@ public class Exercicio3 {
 		Scanner sc = new Scanner(System.in);
 		String txt = sc.nextLine();
 		
-		int ctmaius = 0, ctmin = 0, num = 0, x = 0;
+		int ctmaius = 0;
+		int ctmin = 0;
+		int num = 0;
+		int x = 0;
 		
 		String str = txt;
-		int tamanhoStr = str.length();	
+	   // int tamanhoStr = str.length();	
 		
 		for (int i = 0; i < str.length(); i++) {
 		
@@ -32,14 +35,15 @@ public class Exercicio3 {
 		
 		if ((txt.charAt(i) >= ' ') && (txt.charAt(i) <= ' ')){
 			x = x + 1;
-			}
+			} 
+			
+		
+	}
 		
 		System.out.println(ctmaius);
 		System.out.println(ctmin);
 		System.out.println(num);
 		System.out.println(x);
-		
-	}
 
 	}
 }
